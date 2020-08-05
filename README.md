@@ -6,7 +6,10 @@ The aim of the project was to develop a music mood classifier. There are many ca
 <img src="https://user-images.githubusercontent.com/54474853/89421393-9af08c00-d751-11ea-96a4-9505e3062e4b.jpg" alt="MusicGenreClassification" width="250">
 </p>
 
-# References
+## Dataset
+ * [Marsyas Genre dataset](http://marsyas.info/downloads/datasets.html)
+
+## References
  * [Deep learning for music genre classification](https://courses.engr.illinois.edu/ece544na/fa2014/Tao_Feng.pdf)
  * [Spotify CNN](https://benanne.github.io/2014/08/05/spotify-cnns.html)
  * [Deep content-based music recommendation](http://papers.nips.cc/paper/5004-deep-content-based-)
