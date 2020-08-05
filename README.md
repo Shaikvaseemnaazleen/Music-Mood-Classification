@@ -3,3 +3,7 @@ The aim of the project was to develop a music mood classifier. There are many ca
 
 
 ![mmod_music](https://user-images.githubusercontent.com/54474853/89421393-9af08c00-d751-11ea-96a4-9505e3062e4b.jpg)
+
+
+# Resources
+ * [Mood Music Classification](http://cs229.stanford.edu/proj2011/GoelPadial-MusicMoodClassification.pdf)
